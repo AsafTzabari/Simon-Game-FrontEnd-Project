@@ -11,7 +11,7 @@ A popular classic game that tests your memory with 4 colors that you need to rem
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/omertzroya/Simon-Game-FrontEnd-Project.git
+   git clone https://github.com/AsafTzabar/Simon-Game-FrontEnd-Project.git
    ```
 2. **Run the Game On Browser:**
   
